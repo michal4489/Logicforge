@@ -2,7 +2,7 @@
 
 Otwórz **☰ → Przykładowe układy → kalkulator ram 8bit** lub [pobierz projekt](../examples/kalkulator-ram-8bit.lfg).
 
-![Kalkulator z wynikiem 12](../assets/calculator-example.png)
+![Kalkulator z wynikiem 12](https://github.com/user-attachments/assets/2dc893d2-b9ad-49c8-a8c2-a81a010d8d4e)
 
 ## Dodawanie 7 + 5
 
