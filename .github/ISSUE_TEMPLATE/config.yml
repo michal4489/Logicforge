@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Instrukcja i FAQ
+    url: https://github.com/michal4489/Logicforge/blob/main/docs/FAQ.md
+    about: Instalacja, przykłady, symulacja i najczęstsze pytania.
