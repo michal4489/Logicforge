@@ -1,0 +1,8 @@
+Copyright (c) 2026 Michał Trojanowski. All rights reserved.
+
+This is the public distribution and documentation repository for LogicForge.
+It does not grant an open-source license to the LogicForge application,
+its private source code, original artwork or branding.
+
+Application use and redistribution permissions must be specified separately
+with each public release. Third-party components retain their own licenses.
