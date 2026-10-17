@@ -1,0 +1,21 @@
+name: Zaproponuj funkcję
+description: Pomysł na usprawnienie edytora lub symulacji.
+title: "[Pomysł]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Jaki problem chcesz rozwiązać?
+      description: Opisz konkretną sytuację podczas pracy z LogicForge.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proponowane rozwiązanie
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Dodatkowy kontekst
