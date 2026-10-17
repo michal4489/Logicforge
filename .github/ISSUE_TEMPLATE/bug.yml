@@ -1,1 +1,45 @@
-
+name: Zgłoś błąd
+description: Coś nie działa zgodnie z oczekiwaniami w LogicForge.
+title: "[Błąd]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Formularz jest publiczny — nie dodawaj prywatnych danych ani tokenów."
+  - type: input
+    id: version
+    attributes:
+      label: Wersja LogicForge
+      placeholder: np. 0.14.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Wersja Windows
+      placeholder: np. Windows 11, x64
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Kroki odtworzenia
+      description: Od otwarcia projektu do wystąpienia błędu.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Oczekiwane zachowanie
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Co faktycznie się wydarzyło?
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Zrzuty i przykładowy projekt
+      description: Plik .lfg możesz spakować do ZIP. Usuń prywatne dane.
