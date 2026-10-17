@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/b98d8281-bf2f-4dde-9919-64f077c4824a" alt="LogicForge" width="420"></p>
+<p align="center"><img src="assets/logicforge-banner.svg" alt="LogicForge — buduj, uruchamiaj, obserwuj" width="100%"></p>
 
 <h1 align="center">Od pierwszej bramki do własnego procesora.</h1>
 
@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Windows x64 · Praca offline · Własne IC · RAM · Analiza sygnałów</strong></p>
 
-<p align="center"><a href="https://github.com/michal4489/Logicforge/releases"><strong>Pobieranie i wydania</strong></a> · <a href="docs/START.md">Pierwsze kroki</a> · <a href="examples">Przykłady</a> · <a href="https://github.com/michal4489/Logicforge/issues/new/choose">Zgłoś problem</a></p>
+<p align="center"><a href="https://github.com/michal4489/Logicforge/releases"><strong>Pobieranie i wydania</strong></a> · <a href="docs/START.md">Pierwsze kroki</a> · <a href="https://github.com/michal4489/Logicforge/tree/main/examples">Przykłady</a> · <a href="https://github.com/michal4489/Logicforge/issues/new/choose">Zgłoś problem</a></p>
 
 ![Ekran startowy LogicForge](https://github.com/user-attachments/assets/3c6f5405-8a03-4956-a6f7-d4e159e4e2ae)
 
