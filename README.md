@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logicforge-banner.svg" alt="LogicForge — buduj, uruchamiaj, obserwuj" width="100%"></p>
+<p align="center"><img src="assets/logicforge-logo.png" alt="Oficjalne logo LogicForge" width="620"></p>
 
 <h1 align="center">Od pierwszej bramki do własnego procesora.</h1>
 
@@ -30,7 +30,7 @@ LogicForge pozwala składać układy z bramek, przycisków, zegarów, pamięci i
 3. Uruchom LogicForge i wybierz **Tutorial** albo **Projekt powitalny**.
 4. Gotowe obwody znajdziesz w **☰ → Przykładowe układy**.
 
-> Pierwsze publiczne wydanie instalatora jest przygotowywane. Dopóki Releases jest puste, plik EXE nie jest dostępny w tym repozytorium. **Code → Download ZIP** pobiera dokumentację i przykłady.
+> Pobierz aktualny instalator z [logicforge.site](https://logicforge.site/download/). **Code → Download ZIP** pobiera dokumentację i przykłady.
 
 [Instalacja i pierwsze kroki](docs/START.md) · [Pytania i odpowiedzi](docs/FAQ.md)
 
